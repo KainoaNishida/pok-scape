@@ -71,7 +71,7 @@ public class Game extends GameDriverV2 implements KeyListener, MouseListener, Mo
 	Font chestlockfont = new Font("Impact", Font.PLAIN, 10);
 	Font itemfont  = new Font("Impact", Font.PLAIN, 15);
 	Font igfont = new Font("Arial Narrow", Font.PLAIN, 50);
-	Font text = new Font("Agency FB", Font.PLAIN, 40);
+	Font text = new Font("Agency FB", Font.PLAIN, 25);
 	Font typepossible = new Font("Agency FB", Font.PLAIN, 20);
 	
 	String description;
@@ -295,7 +295,7 @@ public class Game extends GameDriverV2 implements KeyListener, MouseListener, Mo
 	public static void main(String[] args){
 		JFrame j1 = new JFrame();
 		j1.setSize(1366, 720);
-		j1.setTitle("Pokémon Awakening");
+		j1.setTitle("Pokï¿½mon Awakening");
 		j1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		j1.add(new Game());
 		j1.setVisible(true);
