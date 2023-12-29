@@ -28,7 +28,7 @@ Welcome to the Pokemon Point-and-Click Escape Game repository! This game is an i
 ### Screenshots
 Here are glimpses of the game in action:
 
-1. ![Screenshot 1](Desktop/gameplay-images/start.png)
+1. ![Screenshot 1](../gameplay-images/start.png)
 2. ![Screenshot 2](Desktop/gameplay-images/2)
 3. ![Screenshot 3](Desktop/gameplay-images/3)
 4. ![Screenshot 4](Desktop/gameplay-images/4)
