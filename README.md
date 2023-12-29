@@ -30,17 +30,17 @@ Here are glimpses of the game in action:
 
 ![Screenshot 1](gameplay-images/start.png)
 
-![Screenshot 2](gameplay-images/2)
+![Screenshot 2](gameplay-images/2.png)
 
-![Screenshot 3](gameplay-images/3)
+![Screenshot 3](gameplay-images/3.png)
 
-![Screenshot 4](gameplay-images/4)
+![Screenshot 4](gameplay-images/4.png)
 
-![Screenshot 6](gameplay-images/5)
+![Screenshot 6](gameplay-images/5.png)
 
-![Screenshot 7](gameplay-images/6)
+![Screenshot 7](gameplay-images/6.png)
 
-![Screenshot 7](gameplay-images/7)
+![Screenshot 7](gameplay-images/7.png)
 
 
 ## Contribution
